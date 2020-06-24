@@ -20,3 +20,8 @@ Sollten alle Tests bestanden worden sein, dann kannst du deine Änderungen in de
 
 > I’ve always been more interested
 > in the future than in the past.
+
+## Ein Bild
+
+<img src="https://hpi.de/fileadmin/_processed_/5/a/csm_openHPI-1020x420_f97d93d99e.jpg" />
+
