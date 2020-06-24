@@ -16,3 +16,7 @@ Sollten alle Tests bestanden worden sein, dann kannst du deine Änderungen in de
 * Führe einen Commit mit deinen Änderungen aus und pushe diese.
 * Erstelle einen Pull Request. Referenziere darin das Issue.
 
+## Ein Zitat
+
+> I’ve always been more interested
+> in the future than in the past.
